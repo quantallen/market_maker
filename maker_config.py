@@ -1,0 +1,223 @@
+TokenConfig = {
+    "BTCTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "ADATWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "APETWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "ARBTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "BNBTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "BONKTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "DOGETWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "DOTTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "ETHTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "FTMTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "GALATWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "LTCTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "MATICTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "SANDTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "SHIBTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "SOLTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "SSVTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "TRXTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "WOOTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    "XRPTWD":{
+        "maker_fee": 0.0015,
+        "taker_fee": 0.0015,
+        "min_amount": 0.0001,
+        "max_amount": 100,
+        "firstbuysizefactor": 0.1,
+        "firstsellsizefactor": 0.1,
+        "firsttotalvalue": 10000,
+        "anothertotalvalue": 3000,
+        "fartotalvalue" : 5000
+    },
+    
+}

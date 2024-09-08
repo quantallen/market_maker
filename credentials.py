@@ -1,0 +1,11 @@
+securityKey = '5f7fd71b87fa4c33a3efaa028755c3eb'
+uid = 210726
+apiKey = '56416#2024'
+phone = 886988008124
+binance_api_key = 'XpHWB067eiGQzuti6xZ8qHl8wvJsFTfF3c8xVWGbKI7RgrFT0pIkdh4MXo6biAYR'
+binance_api_secret = '3MFaozdWNo4mLDM8kuVRKIb0FRgwOscIUjdS8XxwoDPcireFzGgRyiQ1qXiYptYb'
+lineNotifyToken = "9AFIyrdh8PTNYt9eQLfDlunkrVfw4WAj0E9R5aLQl77"
+lineErrorNotifyToken = "sCjnjSF9FVpqNQLPJchx0tMNmO8k8gPTOsVSwReIb3T"
+
+binance_test_api_key = 'Z6K5T8Ah77LbF6uHv3xkbDQA1x0jNLG8p0v1wZeIMgxwh6NCsMwdBghTFk1zYEBE'
+binance_test_api_secret = '5xlaP6WDRPhDkVzZTnfBdD8lf0CR0Szo9Bu91R4eucRaEyJhsvJ1pkxt81gMetmH'
